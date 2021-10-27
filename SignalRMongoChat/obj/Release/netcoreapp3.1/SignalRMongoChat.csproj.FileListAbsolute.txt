@@ -1,0 +1,9 @@
+C:\Ehtisham Ulhaq\Solutions\SignalRCallingSolution\SignalRMongoChat\bin\Release\netcoreapp3.1\SignalRMongoChat.deps.json
+C:\Ehtisham Ulhaq\Solutions\SignalRCallingSolution\SignalRMongoChat\bin\Release\netcoreapp3.1\SignalRMongoChat.dll
+C:\Ehtisham Ulhaq\Solutions\SignalRCallingSolution\SignalRMongoChat\bin\Release\netcoreapp3.1\SignalRMongoChat.pdb
+C:\Ehtisham Ulhaq\Solutions\SignalRCallingSolution\SignalRMongoChat\obj\Release\netcoreapp3.1\SignalRMongoChat.AssemblyInfoInputs.cache
+C:\Ehtisham Ulhaq\Solutions\SignalRCallingSolution\SignalRMongoChat\obj\Release\netcoreapp3.1\SignalRMongoChat.AssemblyInfo.cs
+C:\Ehtisham Ulhaq\Solutions\SignalRCallingSolution\SignalRMongoChat\obj\Release\netcoreapp3.1\SignalRMongoChat.csproj.CoreCompileInputs.cache
+C:\Ehtisham Ulhaq\Solutions\SignalRCallingSolution\SignalRMongoChat\obj\Release\netcoreapp3.1\SignalRMongoChat.dll
+C:\Ehtisham Ulhaq\Solutions\SignalRCallingSolution\SignalRMongoChat\obj\Release\netcoreapp3.1\SignalRMongoChat.pdb
+C:\Ehtisham Ulhaq\Solutions\SignalRCallingSolution\SignalRMongoChat\obj\Release\netcoreapp3.1\SignalRMongoChat.csprojAssemblyReference.cache
